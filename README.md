@@ -31,7 +31,6 @@ GIF created with GIPHY https://giphy.com
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 
 ## License
 
