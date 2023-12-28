@@ -15,12 +15,15 @@ The following **required** functionality is completed:
 * [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
 * [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
+The following **optional** features are implemented:
+
+* [x] I enhanced the design by adding additional CSS features to the webpage.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanYxMHA0Z3JpbGl5MzJpbGdhazQ3dmZ5bTlxcTBwMnVvMTYzZmszciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pJbRlqQSS6TejPM9kv/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWZkdXJtMmJvNnF3cXMybWlkbHBzbDNtc2hyMDY0bGg0azA3NjJ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/THrKikpCVCgMmr47oc/giphy.gif' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with GIPHY https://giphy.com
